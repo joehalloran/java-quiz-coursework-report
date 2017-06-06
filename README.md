@@ -1,5 +1,7 @@
 # Java Quiz Coursework
-### Joe Halloran
+Joe Halloran
+
+## Table of contents
 
 * [Project overview](01-project-overview.md)
 * [Critical evaluation](02-critical-evaluation.md)

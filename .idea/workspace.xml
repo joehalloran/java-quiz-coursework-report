@@ -40,22 +40,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="book.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/book.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="47" />
+              <first_editor relative-caret-position="170">
+                <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="83" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -74,12 +64,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+              <first_editor relative-caret-position="187">
+                <caret line="11" column="83" selection-start-line="11" selection-start-column="83" selection-end-line="11" selection-end-column="83" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -122,12 +112,60 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03-test-plan.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03-test-plan.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03-test-plan.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="34">
                 <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appendix-02-source-code-listing.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appendix-02-source-code-listing.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="7" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appendix-03-supplementary-text-file-listing.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appendix-03-supplementary-text-file-listing.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="48" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -170,36 +208,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02-critical-evaluation.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-critical-evaluation.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="476">
-                <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="01-project-overview.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01-project-overview.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="765">
-                <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <first_editor relative-caret-position="561">
+                <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -239,10 +253,12 @@
         <option value="$PROJECT_DIR$/book/02-critical-evaluation.md" />
         <option value="$PROJECT_DIR$/book/03-test-plan.md" />
         <option value="$PROJECT_DIR$/book/SUMMARY.md" />
-        <option value="$PROJECT_DIR$/SUMMARY.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Appendix-01-test-evidence.md" />
         <option value="$PROJECT_DIR$/03-test-plan.md" />
+        <option value="$PROJECT_DIR$/appendix-02-source-code-listing.md" />
+        <option value="$PROJECT_DIR$/appendix-03-supplementary-text-file-listing.md" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -661,28 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-project-overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="765">
-            <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02-critical-evaluation.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -765,6 +759,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/03-test-plan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Appendix-01-test-evidence.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -787,11 +803,161 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01-project-overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="561">
+            <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appendix-02-source-code-listing.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="7" />
+            <folding>
+              <marker date="1496761373499" expanded="true" signature="83:110" ph="/**...*/" />
+              <marker date="1496761373499" expanded="false" signature="174:185" ph=" { " />
+              <marker date="1496761373499" expanded="false" signature="208:214" ph=" }" />
+              <marker date="1496761373499" expanded="true" signature="220:291" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="310:1773" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="1779:1836" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="1877:2991" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="2997:3037" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="3067:3165" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="3210:3301" ph="..." />
+              <marker date="1496761373499" expanded="true" signature="3303:3388" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="3421:3520" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="3573:3762" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="3768:4034" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="4108:4878" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="4884:4991" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="5048:5892" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="5936:6066" ph="..." />
+              <marker date="1496761373499" expanded="true" signature="6069:6238" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="6295:6324" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="6886:6948" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="7137:7509" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="7515:7581" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="7676:10475" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="10481:10525" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="10587:11951" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="11245:11327" ph="//..." />
+              <marker date="1496761373499" expanded="true" signature="11957:12026" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="12057:12718" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="12724:12792" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="12841:14152" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="14158:14228" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="14254:14783" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="14789:14862" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="14894:15133" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="15139:15265" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="15347:16169" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="16175:16334" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="16384:16784" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="16790:16878" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="16918:17108" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1496761373499" expanded="true" signature="83:110" ph="/**...*/" />
+              <marker date="1496761373499" expanded="false" signature="174:185" ph=" { " />
+              <marker date="1496761373499" expanded="false" signature="208:214" ph=" }" />
+              <marker date="1496761373499" expanded="true" signature="220:291" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="310:1773" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="1779:1836" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="1877:2991" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="2997:3037" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="3067:3165" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="3210:3301" ph="..." />
+              <marker date="1496761373499" expanded="true" signature="3303:3388" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="3421:3520" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="3573:3762" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="3768:4034" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="4108:4878" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="4884:4991" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="5048:5892" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="5936:6066" ph="..." />
+              <marker date="1496761373499" expanded="true" signature="6069:6238" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="6295:6324" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="6886:6948" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="7137:7509" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="7515:7581" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="7676:10475" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="10481:10525" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="10587:11951" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="11245:11327" ph="//..." />
+              <marker date="1496761373499" expanded="true" signature="11957:12026" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="12057:12718" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="12724:12792" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="12841:14152" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="14158:14228" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="14254:14783" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="14789:14862" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="14894:15133" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="15139:15265" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="15347:16169" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="16175:16334" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="16384:16784" ph="{...}" />
+              <marker date="1496761373499" expanded="true" signature="16790:16878" ph="/**...*/" />
+              <marker date="1496761373499" expanded="true" signature="16918:17108" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appendix-03-supplementary-text-file-listing.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="48" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="47" />
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="83" />
             <folding />
           </first_editor>
           <second_editor />
@@ -812,30 +978,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-test-plan.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="83" selection-start-line="11" selection-start-column="83" selection-end-line="11" selection-end-column="83" />
             <folding />
           </first_editor>
           <second_editor />

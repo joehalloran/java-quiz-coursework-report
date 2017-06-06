@@ -1,1 +1,2 @@
-# java-quiz-coursework-report
+# Java Quiz Coursework Report
+### Joe Halloran

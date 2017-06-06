@@ -1,0 +1,11 @@
+{
+  "pluginsConfig": {
+    "theme-default": {
+      "styles": {
+        "website": "assets/book.css"
+      }
+    }
+  },
+  "root": "./book",
+  "plugins" : [ "anchors" ]
+}

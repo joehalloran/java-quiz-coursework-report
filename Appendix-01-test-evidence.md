@@ -1,6 +1,6 @@
 ##       Appendix i: Test evidence
 
-|    |Evidence       |
+|Test No.   |Evidence       |
 |-------|-----------|
 |1    |![Screenshot](assets/test1.PNG)       |
 |2    |![Screenshot](assets/test2.PNG)         |

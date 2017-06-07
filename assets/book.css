@@ -1,7 +1,3 @@
-* {
-color: red;
-}
-
 .book-summary ul.summary li span {
   cursor: not-allowed;
   opacity: 0.3;

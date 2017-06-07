@@ -6,6 +6,5 @@
 	"pdf": "assets/book.css"
       }
     }
-  },
-  "plugins" : [ "anchors" ]
+  }
 }

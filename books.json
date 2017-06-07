@@ -2,10 +2,10 @@
   "pluginsConfig": {
     "theme-default": {
       "styles": {
-        "website": "assets/book.css"
+        "website": "assets/book.css",
+	"pdf": "assets/book.css"
       }
     }
   },
-  "root": "./book",
   "plugins" : [ "anchors" ]
 }

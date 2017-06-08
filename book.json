@@ -3,30 +3,9 @@
     "theme-default": {
       "styles": {
         "website": "assets/book.css",
-	"pdf": "assets/book.css"
+		"pdf": "assets/book.css"
       }
-    },
-    "autocover": {
-         "title": "Java Quiz Coursework",
-	    "author": "Joe Halloran",
-	    "pluginsConfig": {
-	        "autocover": {
-	            "font": {
-	                "size": null,
-	                "family": "Helevtica",
-	                "color": "#FFF"
-	            },
-	            "size": {
-	                "w": 1800,
-	                "h": 2360
-	            },
-	            "background": {
-	                "color": "#09F"
-	            }
-	        }
-	    }
     }
   },
-  "plugins": ["autocover"]	
-  
+  "plugins": ["anchors"]
 }
